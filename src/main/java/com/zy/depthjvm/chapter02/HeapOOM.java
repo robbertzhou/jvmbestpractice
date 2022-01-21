@@ -1,4 +1,4 @@
-package com.zy.chapter02;
+package com.zy.depthjvm.chapter02;
 
 import java.util.ArrayList;
 import java.util.List;

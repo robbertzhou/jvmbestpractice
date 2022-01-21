@@ -1,4 +1,4 @@
-package com.zy.chapter02;
+package com.zy.depthjvm.chapter02;
 
 /**
  * @author zhouyu
