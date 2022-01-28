@@ -1,6 +1,6 @@
 package com.zy.performancepractice.chapter04.futurepattern;
 
-import sun.jvm.hotspot.asm.sparc.SPARCRegister;
+
 
 public class RealData implements Data {
     protected final String result;

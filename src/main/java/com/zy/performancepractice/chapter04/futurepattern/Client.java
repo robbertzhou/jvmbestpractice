@@ -8,7 +8,7 @@ public class Client {
         new Thread(){
             @Override
             public void run() {
-                RealData realData = new RealData();
+                RealData realData = new RealData("");
 
             }
         }.start();
